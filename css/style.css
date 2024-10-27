@@ -57,5 +57,5 @@ body {
 .card__description {
   color: var(--color-neutral-500);
   line-height: 1.9rem;
-  letter-spacing: 0.19px;
+  letter-spacing: 0.2px;
 }
