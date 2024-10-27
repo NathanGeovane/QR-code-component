@@ -50,12 +50,12 @@ body {
   font-size: 2.2rem;
   margin-bottom: 1.6rem;
   color: var(--color-neutral-900);
-  line-height: 2.6rem;
+  line-height: 2.7rem;
   font-weight: var(--fw-bold);
 }
 
 .card__description {
   color: var(--color-neutral-500);
-  line-height: 2.3rem;
+  line-height: 2.2rem;
   letter-spacing: 0.2px;
 }
