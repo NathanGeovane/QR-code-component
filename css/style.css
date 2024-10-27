@@ -52,6 +52,7 @@ body {
   color: var(--color-neutral-900);
   line-height: 2.8rem;
   font-weight: var(--fw-bold);
+  letter-spacing: 0.19px;
 }
 
 .card__description {
