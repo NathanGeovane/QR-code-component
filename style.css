@@ -100,9 +100,11 @@ body {
   color: var(--color-neutral-900);
   line-height: 1.2;
   font-weight: var(--fw-bold);
+  letter-spacing: 0;
 }
 
 .card__description {
   color: var(--color-neutral-500);
   line-height: 1.4;
+  letter-spacing: 0.19px;
 }
