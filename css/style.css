@@ -18,7 +18,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  line-height: 1;
 }
 
 .card {
@@ -30,12 +29,10 @@ body {
   box-shadow: 0px 24px 17px -7px rgba(0, 0, 0, 0.07);
   max-width: 32rem;
   margin-block: 5.6rem;
-  height: 49.7rem;
 }
 
 .card__img {
-  width: 28.8rem;
-  height: 28.8rem;
+  width: 100%;
   margin-bottom: 2.4rem;
   border-radius: 1rem;
   margin-inline: auto;
