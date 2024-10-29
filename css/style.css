@@ -41,7 +41,7 @@ body {
   margin-inline: auto;
 }
 
-.card__content-wrapper {
+.card__content {
   padding-inline: 3.2rem;
   padding-block-end: 4rem;
   text-align: center;
